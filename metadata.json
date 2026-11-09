@@ -1,0 +1,6 @@
+{
+  "name": "Du Lịch Thông Minh Vĩnh Long",
+  "description": "Nền tảng du lịch thông minh Vĩnh Long tích hợp bản đồ, thông tin di tích lịch sử - sinh thái và thuyết minh tự động bằng AI (tiếng Việt & tiếng Anh).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
